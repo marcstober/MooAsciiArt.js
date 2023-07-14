@@ -1,6 +1,11 @@
 MooAsciiArt.js
 ===========
 
+Modified by Marc Stober to remove dependency on MooTools. Work in progress.
+
+ORIGINAL README BELOW
+---------------------
+
 This is a port of two libraries combined into one, modified and extended, for the purpose of creating an ASCII display object capable of converting any DOM node into ASCII. It currently works on image nodes and any nodes you explicitly map to figlet fonts.
 
 ![Screenshot](http://patternweaver.com/MooAsciiArt/MooAsciiArt.jpg)
